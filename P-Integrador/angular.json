@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css", 
+              "P-Integrador/node_modules/bootstrap-5.0.1-dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "P-Integrador/node_modules/bootstrap-5.0.1-dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
