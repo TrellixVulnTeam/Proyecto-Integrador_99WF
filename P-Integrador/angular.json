@@ -23,9 +23,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css" 
+              "src/styles.css"
             ],
             "scripts": []
+            
             
           },
           "configurations": {
@@ -91,7 +92,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css" 
             ],
             "scripts": []
           }
