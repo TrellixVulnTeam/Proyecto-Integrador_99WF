@@ -11,6 +11,9 @@ div{
         top: 600px;
     }
 }
+#datos{
+    margin-top: 10%;
+}
 #nombre{
     font-weight: bold;
 }
