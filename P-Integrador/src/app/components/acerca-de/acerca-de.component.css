@@ -4,14 +4,14 @@
 div{
     background-color: #c1bfda;
 }
-@media (min-width: 576px){
+@media (min-width: 575px){
     #foto-de-perfil{
         position: absolute;
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px gray;
         left: 2%;
-        top: 950px;
+        top: 650px;
     }
 }
 #datos{
