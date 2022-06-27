@@ -7,11 +7,12 @@ div{
 @media (min-width: 575px){
     #foto-de-perfil{
         position: absolute;
-        width: 15%;
-        border-radius: 100%;
+        width:200px;
+        height:200px;
+        border-radius: 150%;
         box-shadow: 3px 3px 3px gray;
         left: 2%;
-        top: 650px;
+        top: 630px;
     }
 }
 #datos{
