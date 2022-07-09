@@ -8,11 +8,11 @@
 		<version>2.7.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.portafoliofacumoli</groupId>
+	<groupId>com.facundoportafolio</groupId>
 	<artifactId>Facu</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Facu</name>
-	<description>Portafolio de Facundo Molina</description>
+	<description>Portafolio </description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
