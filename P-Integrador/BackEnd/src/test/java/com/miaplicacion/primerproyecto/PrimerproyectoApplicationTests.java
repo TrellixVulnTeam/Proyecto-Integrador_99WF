@@ -1,10 +1,10 @@
-package com.facundoportafolio.Facu;
+package com.miaplicacion.primerproyecto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FacuApplicationTests {
+class PrimerproyectoApplicationTests {
 
 	@Test
 	void contextLoads() {
