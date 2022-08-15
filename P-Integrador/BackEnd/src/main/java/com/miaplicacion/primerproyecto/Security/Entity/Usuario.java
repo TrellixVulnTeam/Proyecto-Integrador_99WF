@@ -1,6 +1,5 @@
 package com.miaplicacion.primerproyecto.Security.Entity;
 
-import static com.fasterxml.jackson.databind.util.ClassUtil.name;
 import java.util.HashSet;
 import java.util.Set;
 import javax.persistence.Column;
